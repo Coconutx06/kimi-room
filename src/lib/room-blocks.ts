@@ -37,6 +37,7 @@ export const ROOM_BLOCKS: RoomBlock[] = [
   { id: "atlas", href: "/room/atlas", name: "Atlas", sub: "& PASSAGE", defaultSlot: "link" },
   { id: "graph", href: "/room/graph", name: "Graph", sub: "& CONSTELLATION", defaultSlot: "link" },
   { id: "ephemera", href: "/room/ephemera", name: "Ephemera", sub: "& OCCASIONS", defaultSlot: "link" },
+  { id: "journal", href: "/room/journal", name: "Journal", sub: "& PRIVATE PAGES", defaultSlot: "link" },
 ];
 
 export const ROOM_LAYOUT_COOKIE = "kimi-room-layout";
